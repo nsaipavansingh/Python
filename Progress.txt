@@ -3,3 +3,19 @@ Progress.txt
 
 25th Nov 
 Setup, First and Second commit;
+
+
+git config --global user.name nsaipavansingh
+git config --global user.email nsaipavansingh@gmail.com 
+
+
+-> GitHub (Service/Server) - Tracks changes over organization level
+   
+   -> Create Github Account 
+   -> Create Repo (project with History) 
+
+-> Clone Repo 
+-> Write (VS Code + GitHub) 
+-> Stage Code (VS Code + GitHub) 
+-> commit code (VS Code + GitHub) 
+-> push code (VS Code + GitHub)  
