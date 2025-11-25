@@ -48,3 +48,12 @@ git config --global user.email nsaipavansingh@gmail.com
         -> Cannot start with Digits
         -> Cannot be python keywords(def, if, clas etc) 
         -> All indentiers are case sensitive ( name, Name, NAME) 
+
+
+    -> varibales
+            
+            -> Variables are names of memory Locations, which are used to store data
+            
+        -> Stores the data? Where ? 
+
+
