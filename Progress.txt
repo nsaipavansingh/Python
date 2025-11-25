@@ -19,3 +19,32 @@ git config --global user.email nsaipavansingh@gmail.com
 -> Stage Code (VS Code + GitHub) 
 -> commit code (VS Code + GitHub) 
 -> push code (VS Code + GitHub)  
+
+-> Identifiers
+
+    -> Names 
+
+        -> varibales
+        -> Functions
+        -> Modules
+        -> Classes 
+        -> objects
+        -> methods
+        -> etc
+
+     -> Identifiers Rules
+
+        -> Can Contain
+
+                -> Letters(a-z, A-Z )
+                -> Digits(0-9)
+                -> underscore(_)
+
+        -> Should Start with 
+
+                -> A letter (a-z, A-Z) or 
+                ->Underscore(_)
+
+        -> Cannot start with Digits
+        -> Cannot be python keywords(def, if, clas etc) 
+        -> All indentiers are case sensitive ( name, Name, NAME) 
