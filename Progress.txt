@@ -53,7 +53,41 @@ git config --global user.email nsaipavansingh@gmail.com
     -> varibales
             
             -> Variables are names of memory Locations, which are used to store data
-            
-        -> Stores the data? Where ? 
+
+        -> Variables allow you to
+
+            -> Manuplate data
+            -> Access data
+            -> Hold data
+
+        -> Variables should follow naming convention
+
+            -> Identifiers    
 
 
+        -> Java
+
+            -> String brand = "Levis";
+            -> Float Rating = 4.2;
+            -> int price - 1600
+            -> int size = 32    
+
+        -> Python(Dynamic typing)      
+
+        -> brand = "Levis";
+        -> ratings = 4.2
+        -> size = 32
+
+
+ID Function -> Prints the memory address
+
+-> type: print the data type being assigned
+
+-> output 
+     print -> to output print
+
+     -> concatination : combineing two or more strings
+
+
+     
+     
