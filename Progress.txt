@@ -88,6 +88,15 @@ ID Function -> Prints the memory address
 
      -> concatination : combineing two or more strings
 
+26th Nov
 
-     
+-> Interpolation
+
+        -> In context of programming, Interpolation means Replacing Placeholders with Actual Values
+
+        -> To achive this, we can use f-strings(formatted string literals) in python
+
+        -> In f-string we sue {} to represent varibale which wil be replaced with Actual Values
+
+
      
