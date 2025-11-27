@@ -1,7 +1,7 @@
-Progress.txt
-
 
 25th Nov 
+========
+
 Setup, First and Second commit;
 
 
@@ -50,7 +50,7 @@ git config --global user.email nsaipavansingh@gmail.com
         -> All indentiers are case sensitive ( name, Name, NAME) 
 
 
-    -> varibales
+-> varibales
             
             -> Variables are names of memory Locations, which are used to store data
 
@@ -89,6 +89,7 @@ ID Function -> Prints the memory address
      -> concatination : combineing two or more strings
 
 26th Nov
+========
 
 -> Interpolation
 
@@ -98,5 +99,26 @@ ID Function -> Prints the memory address
 
         -> In f-string we sue {} to represent varibale which wil be replaced with Actual Values
 
+-> operators
 
-     
+    -> Special symbols, Performs operations on variables and values(operands)
+        ->
+
+    -> We use operators to manipulate variables
+
+    -> Types
+
+            -> Arithmetic operators
+             
+                -> + - * / % // **
+
+            -> Compound Assignment operator with Arithmetic operators
+
+
+                -> =+, +=, *= etc
+
+                -> For shorter syntax
+
+                -> x = x+ 5 or x+= 5
+                       
+
