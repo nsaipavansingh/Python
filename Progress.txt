@@ -121,4 +121,6 @@ ID Function -> Prints the memory address
 
                 -> x = x+ 5 or x+= 5
                        
+-> conditional
+-> match case
 
