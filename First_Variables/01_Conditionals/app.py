@@ -35,7 +35,7 @@ else:
 
 
 #match case
-choice = 2
+#choice = 2
 #match choice:
  #   case 1:
   #      print("You selected option 1")
@@ -46,7 +46,7 @@ choice = 2
     #case _:
     #    print("Invalid option selected")
 
-    
+
 
 
         
