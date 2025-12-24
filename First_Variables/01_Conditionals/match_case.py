@@ -29,3 +29,18 @@ match age:
     case _:
         category = "big adult"      
 print(category)
+
+#using range function
+age = 25
+if age in range(0, 5):
+    category = "Toddler"
+elif age in range(5, 10):
+    category = "Kid"
+elif age in range(10, 18):
+    category = "Teen"
+elif age >= 18:
+    category = "Adult"
+else:
+    category = "big adult"
+
+print(category)
